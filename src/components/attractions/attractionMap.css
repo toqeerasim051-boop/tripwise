@@ -1,0 +1,66 @@
+/* Leaflet styling for AttractionMap, in TripWise tokens (part of the map's lazy chunk). */
+.leaflet-container {
+  font: inherit;
+  background: var(--color-surface-muted);
+}
+
+.attraction-pin svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  filter: drop-shadow(0 3px 2px rgb(var(--shadow-color) / 0.35));
+  transform-origin: 50% 100%;
+  transition: scale 150ms ease-out;
+}
+
+.attraction-pin:hover svg,
+.attraction-pin:focus-visible svg {
+  scale: 1.15;
+}
+
+.attraction-pin:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Popups follow the theme (Leaflet's default is always white). */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--color-surface);
+  color: var(--color-fg);
+  box-shadow: 0 12px 30px -8px rgb(var(--shadow-color) / 0.35);
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 1rem;
+}
+
+.leaflet-popup-content {
+  margin: 12px;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: var(--color-fg-muted);
+}
+
+.leaflet-control-attribution {
+  font-size: 11px;
+}
+
+/* Leaflet gives popup paragraphs a large margin; the layout uses its own gaps. */
+.leaflet-popup-content p {
+  margin: 0;
+}
+
+/* Softer map tiles in dark mode (both ways dark mode can be on, as in tokens.css). */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .leaflet-tile-pane {
+    filter: brightness(0.8) contrast(1.1);
+  }
+}
+
+:root[data-theme='dark'] .leaflet-tile-pane {
+  filter: brightness(0.8) contrast(1.1);
+}

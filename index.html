@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="TripWise — explore countries, plan itineraries and track your travel budget."
+    />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>TripWise</title>
+    <script>
+      // Apply a saved manual theme before first paint (same rule as applyTheme in src/utils/settings.js).
+      try {
+        var theme = JSON.parse(localStorage.getItem('tripwise:v1:settings')).data.theme;
+        if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+      } catch (error) {
+        // No saved theme, or storage is unavailable: follow the OS setting.
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,153 @@
+/*
+ * Design tokens. Components use the Tailwind utilities generated from @theme
+ * (bg-surface, text-fg-muted, border-line, max-w-content, ...), never raw hex values.
+ */
+
+:root {
+  --canvas: #f4f8fb;
+  --surface: #ffffff;
+  --surface-muted: #e8f1f7;
+  --fg: #0b2540;
+  --fg-muted: #4a5d72;
+  --line: #d9e5ee;
+  --line-strong: #768a9f; /* form-control borders: >= 3:1 on every surface (WCAG 1.4.11) */
+  --primary: #0b7471;
+  --primary-hover: #075c5a;
+  --on-primary: #ffffff;
+  --primary-soft: #d3f0ec;
+  --danger: #b42318;
+  --on-danger: #ffffff;
+  --success: #157f3b;
+  --warning: #a8530b;
+  --meter-warning: #ea7a12; /* bright orange bar fill; --warning stays dark for text */
+  --focus: #2563eb;
+
+  /* Illustration colours: weather icons and the map pin (decorative; labels carry meaning). */
+  --weather-sun: #f5b301;
+  --weather-cloud: #c9d4e0;
+  --weather-cloud-dark: #8d9cae;
+  --weather-rain: #2f86de;
+  --weather-snow: #6cc4f0;
+  --weather-fog: #9aa8b8;
+  --map-pin: #e2382b;
+  --map-pin-shade: #a3170f;
+  --map-pin-dot: #7a0f09;
+
+  /* Text over photos: a dark scrim with light text, identical in both themes. */
+  --scrim: #04132a;
+  --on-scrim: #ffffff;
+  --on-scrim-accent: #7fe3d6;
+
+  /* Soft, navy-tinted card shadow (shadow-card / shadow-card-hover). */
+  --shadow-color: 11 37 64;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --canvas: #061325;
+    --surface: #0b1d35;
+    --surface-muted: #122847;
+    --fg: #eef4fa;
+    --fg-muted: #a3b6ca;
+    --line: #1f3a5c;
+    --line-strong: #6f89a8;
+    --primary: #3fd2c3;
+    --primary-hover: #7ce4d9;
+    --on-primary: #032826;
+    --primary-soft: #0e3b45;
+    --danger: #f87171;
+    --on-danger: #450a0a;
+    --success: #4ade80;
+    --warning: #fbbf24;
+    --meter-warning: #fb923c;
+    --focus: #60a5fa;
+    --shadow-color: 0 0 0;
+    --weather-sun: #fbbf24;
+    --weather-cloud: #d3dce7;
+    --weather-cloud-dark: #9aa9bb;
+    --weather-rain: #60a5fa;
+    --weather-snow: #a5dcfb;
+    --weather-fog: #a3b1c2;
+  }
+}
+
+:root[data-theme='dark'] {
+  --canvas: #061325;
+  --surface: #0b1d35;
+  --surface-muted: #122847;
+  --fg: #eef4fa;
+  --fg-muted: #a3b6ca;
+  --line: #1f3a5c;
+  --line-strong: #6f89a8;
+  --primary: #3fd2c3;
+  --primary-hover: #7ce4d9;
+  --on-primary: #032826;
+  --primary-soft: #0e3b45;
+  --danger: #f87171;
+  --on-danger: #450a0a;
+  --success: #4ade80;
+  --warning: #fbbf24;
+  --meter-warning: #fb923c;
+  --focus: #60a5fa;
+  --shadow-color: 0 0 0;
+  --weather-sun: #fbbf24;
+  --weather-cloud: #d3dce7;
+  --weather-cloud-dark: #9aa9bb;
+  --weather-rain: #60a5fa;
+  --weather-snow: #a5dcfb;
+  --weather-fog: #a3b1c2;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-fg: var(--fg);
+  --color-fg-muted: var(--fg-muted);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-on-primary: var(--on-primary);
+  --color-primary-soft: var(--primary-soft);
+  --color-danger: var(--danger);
+  --color-on-danger: var(--on-danger);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-meter-warning: var(--meter-warning);
+  --color-focus: var(--focus);
+  --color-scrim: var(--scrim);
+  --color-on-scrim: var(--on-scrim);
+  --color-on-scrim-accent: var(--on-scrim-accent);
+  --color-weather-sun: var(--weather-sun);
+  --color-weather-cloud: var(--weather-cloud);
+  --color-weather-cloud-dark: var(--weather-cloud-dark);
+  --color-weather-rain: var(--weather-rain);
+  --color-weather-snow: var(--weather-snow);
+  --color-weather-fog: var(--weather-fog);
+  --color-map-pin: var(--map-pin);
+  --color-map-pin-shade: var(--map-pin-shade);
+  --color-map-pin-dot: var(--map-pin-dot);
+}
+
+@theme {
+  /* Fonts are bundled (@fontsource, imported in main.jsx): Inter for text, Playfair Display for
+     headings (font-display). The system fonts are the fallback while they load. */
+  --font-sans:
+    'Inter Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --font-display: 'Playfair Display Variable', Georgia, 'Times New Roman', serif;
+
+  --shadow-card:
+    0 12px 32px -14px rgb(var(--shadow-color) / 0.22),
+    0 2px 6px -2px rgb(var(--shadow-color) / 0.08);
+  --shadow-card-hover:
+    0 20px 44px -16px rgb(var(--shadow-color) / 0.3), 0 4px 10px -4px rgb(var(--shadow-color) / 0.1);
+
+  /* Breakpoints: 600 / 900 / 1200px */
+  --breakpoint-sm: 37.5rem;
+  --breakpoint-md: 56.25rem;
+  --breakpoint-lg: 75rem;
+
+  /* Max content width (1200px) -> max-w-content */
+  --container-content: 75rem;
+}

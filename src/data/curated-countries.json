@@ -1,0 +1,2323 @@
+{
+  "source": "REST Countries v5",
+  "countries": [
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "officialName": "Argentine Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ar.svg",
+      "flagAlt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band.",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 46466688,
+      "areaKm2": 2780400,
+      "capital": "Buenos Aires",
+      "lat": -34.58,
+      "lon": -58.67,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "ARS",
+          "name": "Argentine peso",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "Guarani",
+        "Spanish"
+      ],
+      "timezones": [
+        "UTC-03:00"
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+      ]
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "officialName": "Commonwealth of Australia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/au.svg",
+      "flagAlt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field.",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 27921150,
+      "areaKm2": 7692024,
+      "capital": "Canberra",
+      "lat": -35.27,
+      "lon": 149.13,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "English"
+      ],
+      "timezones": [
+        "UTC+05:00",
+        "UTC+06:30",
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:30",
+        "UTC+10:00",
+        "UTC+10:30",
+        "UTC+11:30"
+      ],
+      "borders": []
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "officialName": "Republic of Austria",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/at.svg",
+      "flagAlt": "The flag of Austria is composed of three equal horizontal bands of red, white and red.",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9217573,
+      "areaKm2": 83871,
+      "capital": "Vienna",
+      "lat": 48.2,
+      "lon": 16.37,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "German"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "LIE",
+        "SVK",
+        "SVN",
+        "CHE"
+      ]
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "officialName": "Kingdom of Belgium",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/be.svg",
+      "flagAlt": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red.",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 11942772,
+      "areaKm2": 30528,
+      "capital": "Brussels",
+      "lat": 50.83,
+      "lon": 4.33,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "FRA",
+        "DEU",
+        "LUX",
+        "NLD"
+      ]
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "officialName": "Federative Republic of Brazil",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/br.svg",
+      "flagAlt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center.",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 214211951,
+      "areaKm2": 8515767,
+      "capital": "Brasília",
+      "lat": -15.79,
+      "lon": -47.88,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "BRL",
+          "name": "Brazilian real",
+          "symbol": "R$"
+        }
+      ],
+      "languages": [
+        "Portuguese"
+      ],
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUF",
+        "GUY",
+        "PRY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ]
+    },
+    {
+      "code": "KHM",
+      "name": "Cambodia",
+      "officialName": "Kingdom of Cambodia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/kh.svg",
+      "flagAlt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 17816143,
+      "areaKm2": 181035,
+      "capital": "Phnom Penh",
+      "lat": 11.55,
+      "lon": 104.92,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "KHR",
+          "name": "Cambodian riel",
+          "symbol": "៛"
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "Khmer"
+      ],
+      "timezones": [
+        "UTC+07:00"
+      ],
+      "borders": [
+        "LAO",
+        "THA",
+        "VNM"
+      ]
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "officialName": "Canada",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ca.svg",
+      "flagAlt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square.",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 41798407,
+      "areaKm2": 9984670,
+      "capital": "Ottawa",
+      "lat": 45.42,
+      "lon": -75.7,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CAD",
+          "name": "Canadian dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:30"
+      ],
+      "borders": [
+        "USA"
+      ]
+    },
+    {
+      "code": "CHL",
+      "name": "Chile",
+      "officialName": "Republic of Chile",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/cl.svg",
+      "flagAlt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square.",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 20150948,
+      "areaKm2": 756102,
+      "capital": "Santiago",
+      "lat": -33.45,
+      "lon": -70.67,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CLP",
+          "name": "Chilean peso",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "timezones": [
+        "UTC-06:00",
+        "UTC-04:00"
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "PER"
+      ]
+    },
+    {
+      "code": "CHN",
+      "name": "China",
+      "officialName": "People's Republic of China",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/cn.svg",
+      "flagAlt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star.",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 1404890000,
+      "areaKm2": 9706961,
+      "capital": "Beijing",
+      "lat": 39.92,
+      "lon": 116.38,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CNY",
+          "name": "Chinese yuan",
+          "symbol": "¥"
+        }
+      ],
+      "languages": [
+        "Chinese"
+      ],
+      "timezones": [
+        "UTC+08:00"
+      ],
+      "borders": [
+        "AFG",
+        "BTN",
+        "MMR",
+        "HKG",
+        "IND",
+        "KAZ",
+        "NPL",
+        "PRK",
+        "KGZ",
+        "LAO",
+        "MAC",
+        "MNG",
+        "PAK",
+        "RUS",
+        "TJK",
+        "VNM"
+      ]
+    },
+    {
+      "code": "HRV",
+      "name": "Croatia",
+      "officialName": "Republic of Croatia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/hr.svg",
+      "flagAlt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with coat of arms of Croatia superimposed in the center.",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3874993,
+      "areaKm2": 56594,
+      "capital": "Zagreb",
+      "lat": 45.815,
+      "lon": 15.9819,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Croatian"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+      ]
+    },
+    {
+      "code": "CUB",
+      "name": "Cuba",
+      "officialName": "Republic of Cuba",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/cu.svg",
+      "flagAlt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center.",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 9434593,
+      "areaKm2": 109884,
+      "capital": "Havana",
+      "lat": 23.12,
+      "lon": -82.35,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CUP",
+          "name": "Cuban peso",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "borders": []
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "officialName": "Czech Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/cz.svg",
+      "flagAlt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field.",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 10903655,
+      "areaKm2": 78865,
+      "capital": "Prague",
+      "lat": 50.08,
+      "lon": 14.47,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CZK",
+          "name": "Czech koruna",
+          "symbol": "Kč"
+        }
+      ],
+      "languages": [
+        "Czech",
+        "Slovak"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+      ]
+    },
+    {
+      "code": "DNK",
+      "name": "Denmark",
+      "officialName": "Kingdom of Denmark",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/dk.svg",
+      "flagAlt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 6038638,
+      "areaKm2": 43094,
+      "capital": "Copenhagen",
+      "lat": 55.67,
+      "lon": 12.58,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "Danish krone",
+          "symbol": "kr"
+        }
+      ],
+      "languages": [
+        "Danish"
+      ],
+      "timezones": [
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-01:00",
+        "UTC",
+        "UTC+01:00"
+      ],
+      "borders": [
+        "DEU"
+      ]
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "officialName": "Arab Republic of Egypt",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/eg.svg",
+      "flagAlt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band.",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 108613296,
+      "areaKm2": 1002450,
+      "capital": "Cairo",
+      "lat": 30.05,
+      "lon": 31.25,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound",
+          "symbol": "ج.م"
+        }
+      ],
+      "languages": [
+        "Arabic"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ]
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "officialName": "French Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/fr.svg",
+      "flagAlt": "The flag of France is composed of three equal vertical bands of blue, white and red.",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 69081996,
+      "areaKm2": 551695,
+      "capital": "Paris",
+      "lat": 48.87,
+      "lon": 2.33,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "French"
+      ],
+      "timezones": [
+        "UTC-10:00",
+        "UTC-09:30",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+03:00",
+        "UTC+04:00",
+        "UTC+05:00",
+        "UTC+10:00",
+        "UTC+11:00",
+        "UTC+12:00"
+      ],
+      "borders": [
+        "AND",
+        "BEL",
+        "DEU",
+        "ITA",
+        "LUX",
+        "MCO",
+        "ESP",
+        "CHE"
+      ]
+    },
+    {
+      "code": "DEU",
+      "name": "Germany",
+      "officialName": "Federal Republic of Germany",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/de.svg",
+      "flagAlt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold.",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 83298787,
+      "areaKm2": 357114,
+      "capital": "Berlin",
+      "lat": 52.52,
+      "lon": 13.4,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "German"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL",
+        "CHE"
+      ]
+    },
+    {
+      "code": "GRC",
+      "name": "Greece",
+      "officialName": "Hellenic Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gr.svg",
+      "flagAlt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton.",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10372335,
+      "areaKm2": 131990,
+      "capital": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Greek"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "borders": [
+        "ALB",
+        "BGR",
+        "TUR",
+        "MKD"
+      ]
+    },
+    {
+      "code": "HUN",
+      "name": "Hungary",
+      "officialName": "Hungary",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/hu.svg",
+      "flagAlt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green.",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9488428,
+      "areaKm2": 93028,
+      "capital": "Budapest",
+      "lat": 47.5,
+      "lon": 19.08,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "HUF",
+          "name": "Hungarian forint",
+          "symbol": "Ft"
+        }
+      ],
+      "languages": [
+        "Hungarian"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AUT",
+        "HRV",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "UKR"
+      ]
+    },
+    {
+      "code": "ISL",
+      "name": "Iceland",
+      "officialName": "Iceland",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/is.svg",
+      "flagAlt": "The flag of Iceland has a blue field with a large white-edged red cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 396500,
+      "areaKm2": 103000,
+      "capital": "Reykjavik",
+      "lat": 64.15,
+      "lon": -21.95,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "ISK",
+          "name": "Icelandic króna",
+          "symbol": "kr"
+        }
+      ],
+      "languages": [
+        "Icelandic"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "borders": []
+    },
+    {
+      "code": "IND",
+      "name": "India",
+      "officialName": "Republic of India",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/in.svg",
+      "flagAlt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band.",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 1429404000,
+      "areaKm2": 3287590,
+      "capital": "New Delhi",
+      "lat": 28.6139,
+      "lon": 77.209,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "INR",
+          "name": "Indian rupee",
+          "symbol": "₹"
+        }
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ],
+      "timezones": [
+        "UTC+05:30"
+      ],
+      "borders": [
+        "BGD",
+        "BTN",
+        "MMR",
+        "CHN",
+        "NPL",
+        "PAK"
+      ]
+    },
+    {
+      "code": "IDN",
+      "name": "Indonesia",
+      "officialName": "Republic of Indonesia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/id.svg",
+      "flagAlt": "The flag of Indonesia is composed of two equal horizontal bands of red and white.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 288315089,
+      "areaKm2": 1904569,
+      "capital": "Jakarta",
+      "lat": -6.17,
+      "lon": 106.82,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "IDR",
+          "name": "Indonesian rupiah",
+          "symbol": "Rp"
+        }
+      ],
+      "languages": [
+        "Indonesian"
+      ],
+      "timezones": [
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:00"
+      ],
+      "borders": [
+        "TLS",
+        "MYS",
+        "PNG"
+      ]
+    },
+    {
+      "code": "IRL",
+      "name": "Ireland",
+      "officialName": "Republic of Ireland",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ie.svg",
+      "flagAlt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5525600,
+      "areaKm2": 70273,
+      "capital": "Dublin",
+      "lat": 53.32,
+      "lon": -6.23,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "English",
+        "Irish"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "borders": [
+        "GBR"
+      ]
+    },
+    {
+      "code": "ITA",
+      "name": "Italy",
+      "officialName": "Italian Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/it.svg",
+      "flagAlt": "The flag of Italy is composed of three equal vertical bands of green, white and red.",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 58943673,
+      "areaKm2": 301336,
+      "capital": "Rome",
+      "lat": 41.9,
+      "lon": 12.48,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Italian",
+        "Catalan"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "SMR",
+        "SVN",
+        "CHE",
+        "VAT"
+      ]
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "officialName": "Japan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/jp.svg",
+      "flagAlt": "The flag of Japan features a crimson-red circle at the center of a white field.",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 122650000,
+      "areaKm2": 377930,
+      "capital": "Tokyo",
+      "lat": 35.68,
+      "lon": 139.75,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥"
+        }
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "borders": []
+    },
+    {
+      "code": "JOR",
+      "name": "Jordan",
+      "officialName": "Hashemite Kingdom of Jordan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/jo.svg",
+      "flagAlt": "The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center.",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11937000,
+      "areaKm2": 89342,
+      "capital": "Amman",
+      "lat": 31.95,
+      "lon": 35.93,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar",
+          "symbol": "د.ا"
+        }
+      ],
+      "languages": [
+        "Arabic"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "borders": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+      ]
+    },
+    {
+      "code": "KEN",
+      "name": "Kenya",
+      "officialName": "Republic of Kenya",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ke.svg",
+      "flagAlt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field.",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 54227015,
+      "areaKm2": 580367,
+      "capital": "Nairobi",
+      "lat": -1.28,
+      "lon": 36.82,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "KES",
+          "name": "Kenyan shilling",
+          "symbol": "Sh"
+        }
+      ],
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "borders": [
+        "ETH",
+        "SOM",
+        "SSD",
+        "TZA",
+        "UGA"
+      ]
+    },
+    {
+      "code": "MYS",
+      "name": "Malaysia",
+      "officialName": "Malaysia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/my.svg",
+      "flagAlt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 34389400,
+      "areaKm2": 330803,
+      "capital": "Kuala Lumpur",
+      "lat": 3.17,
+      "lon": 101.7,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "MYR",
+          "name": "Malaysian ringgit",
+          "symbol": "RM"
+        }
+      ],
+      "languages": [
+        "English",
+        "Malay"
+      ],
+      "timezones": [
+        "UTC+08:00"
+      ],
+      "borders": [
+        "BRN",
+        "IDN",
+        "THA"
+      ]
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "officialName": "United Mexican States",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mx.svg",
+      "flagAlt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band.",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 131231919,
+      "areaKm2": 1964375,
+      "capital": "Mexico City",
+      "lat": 19.43,
+      "lon": -99.13,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "MXN",
+          "name": "Mexican peso",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00"
+      ],
+      "borders": [
+        "BLZ",
+        "GTM",
+        "USA"
+      ]
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "officialName": "Kingdom of Morocco",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ma.svg",
+      "flagAlt": "The flag of Morocco features a green pentagram — a five-pointed linear star — centered on a red field.",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 37254695,
+      "areaKm2": 446550,
+      "capital": "Rabat",
+      "lat": 34.02,
+      "lon": -6.82,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham",
+          "symbol": "د.م."
+        }
+      ],
+      "languages": [
+        "Arabic",
+        "Standard Moroccan Tamazight"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ]
+    },
+    {
+      "code": "NPL",
+      "name": "Nepal",
+      "officialName": "Federal Democratic Republic of Nepal",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/np.svg",
+      "flagAlt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays.",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 30034040,
+      "areaKm2": 147181,
+      "capital": "Kathmandu",
+      "lat": 27.72,
+      "lon": 85.32,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "NPR",
+          "name": "Nepalese rupee",
+          "symbol": "₨"
+        }
+      ],
+      "languages": [
+        "Nepali"
+      ],
+      "timezones": [
+        "UTC+05:45"
+      ],
+      "borders": [
+        "CHN",
+        "IND"
+      ]
+    },
+    {
+      "code": "NLD",
+      "name": "Netherlands",
+      "officialName": "Kingdom of the Netherlands",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/nl.svg",
+      "flagAlt": "The flag of the Netherlands is composed of three equal horizontal bands of red, white and blue.",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 18171612,
+      "areaKm2": 41850,
+      "capital": "Amsterdam",
+      "lat": 52.35,
+      "lon": 4.92,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Dutch"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "BEL",
+        "DEU"
+      ]
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealand",
+      "officialName": "New Zealand",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/nz.svg",
+      "flagAlt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field.",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 4993923,
+      "areaKm2": 270467,
+      "capital": "Wellington",
+      "lat": -41.3,
+      "lon": 174.78,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "English",
+        "Maori",
+        "New Zealand Sign Language"
+      ],
+      "timezones": [
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC+12:00",
+        "UTC+12:45",
+        "UTC+13:00"
+      ],
+      "borders": []
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "officialName": "Kingdom of Norway",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/no.svg",
+      "flagAlt": "The flag of Norway has a red field with a large white-edged navy blue cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5636904,
+      "areaKm2": 323802,
+      "capital": "Oslo",
+      "lat": 59.92,
+      "lon": 10.75,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "Norwegian krone",
+          "symbol": "kr"
+        }
+      ],
+      "languages": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Northern Sami",
+        "Lule Sami",
+        "Southern Sami"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "FIN",
+        "SWE",
+        "RUS"
+      ]
+    },
+    {
+      "code": "PAK",
+      "name": "Pakistan",
+      "officialName": "Islamic Republic of Pakistan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/pk.svg",
+      "flagAlt": "The flag of Pakistan is composed of a white vertical band on its hoist side that takes up about one-fourth the width of the field and a dark green rectangular area that spans the rest of the field. A white fly-side facing crescent and five-pointed star are centered in the dark green area.",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 241499431,
+      "areaKm2": 881912,
+      "capital": "Islamabad",
+      "lat": 33.68,
+      "lon": 73.05,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "PKR",
+          "name": "Pakistani rupee",
+          "symbol": "₨"
+        }
+      ],
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "timezones": [
+        "UTC+05:00"
+      ],
+      "borders": [
+        "AFG",
+        "CHN",
+        "IND",
+        "IRN"
+      ]
+    },
+    {
+      "code": "PER",
+      "name": "Peru",
+      "officialName": "Republic of Peru",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/pe.svg",
+      "flagAlt": "The flag of Peru is composed of three equal vertical bands of red, white and red.",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 34157732,
+      "areaKm2": 1285216,
+      "capital": "Lima",
+      "lat": -12.05,
+      "lon": -77.05,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "PEN",
+          "name": "Peruvian sol",
+          "symbol": "S/"
+        }
+      ],
+      "languages": [
+        "Aymara",
+        "Quechua",
+        "Spanish"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU"
+      ]
+    },
+    {
+      "code": "PHL",
+      "name": "Philippines",
+      "officialName": "Republic of the Philippines",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ph.svg",
+      "flagAlt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 114849400,
+      "areaKm2": 342353,
+      "capital": "Manila",
+      "lat": 14.6,
+      "lon": 120.97,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "PHP",
+          "name": "Philippine peso",
+          "symbol": "₱"
+        }
+      ],
+      "languages": [
+        "English",
+        "Filipino"
+      ],
+      "timezones": [
+        "UTC+08:00"
+      ],
+      "borders": []
+    },
+    {
+      "code": "POL",
+      "name": "Poland",
+      "officialName": "Republic of Poland",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/pl.svg",
+      "flagAlt": "The flag of Poland is composed of two equal horizontal bands of white and red.",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 37232000,
+      "areaKm2": 312679,
+      "capital": "Warsaw",
+      "lat": 52.25,
+      "lon": 21,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "PLN",
+          "name": "Polish złoty",
+          "symbol": "zł"
+        }
+      ],
+      "languages": [
+        "Polish"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ]
+    },
+    {
+      "code": "PRT",
+      "name": "Portugal",
+      "officialName": "Portuguese Republic",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/pt.svg",
+      "flagAlt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary.",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 11424031,
+      "areaKm2": 92090,
+      "capital": "Lisbon",
+      "lat": 38.72,
+      "lon": -9.13,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Portuguese"
+      ],
+      "timezones": [
+        "UTC-01:00",
+        "UTC"
+      ],
+      "borders": [
+        "ESP"
+      ]
+    },
+    {
+      "code": "SGP",
+      "name": "Singapore",
+      "officialName": "Republic of Singapore",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sg.svg",
+      "flagAlt": "The flag of Singapore is composed of two equal horizontal bands of red and white. On the hoist side of the red band is a fly-side facing white crescent which partially encloses five small five-pointed white stars arranged in the shape of a pentagon.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 6208500,
+      "areaKm2": 710,
+      "capital": "Singapore",
+      "lat": 1.28,
+      "lon": 103.85,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "SGD",
+          "name": "Singapore dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "English",
+        "Chinese",
+        "Malay",
+        "Tamil"
+      ],
+      "timezones": [
+        "UTC+08:00"
+      ],
+      "borders": []
+    },
+    {
+      "code": "ZAF",
+      "name": "South Africa",
+      "officialName": "Republic of South Africa",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/za.svg",
+      "flagAlt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field.",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 63015904,
+      "areaKm2": 1221037,
+      "capital": "Pretoria",
+      "lat": -25.74,
+      "lon": 28.19,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R"
+        }
+      ],
+      "languages": [
+        "Afrikaans",
+        "English",
+        "Southern Ndebele",
+        "Northern Sotho",
+        "Sotho",
+        "Swazi",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ]
+    },
+    {
+      "code": "KOR",
+      "name": "South Korea",
+      "officialName": "Republic of Korea",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/kr.svg",
+      "flagAlt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner.",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 51106229,
+      "areaKm2": 100210,
+      "capital": "Seoul",
+      "lat": 37.55,
+      "lon": 126.98,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩"
+        }
+      ],
+      "languages": [
+        "Korean"
+      ],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "borders": [
+        "PRK"
+      ]
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "officialName": "Kingdom of Spain",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/es.svg",
+      "flagAlt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center.",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 49801559,
+      "areaKm2": 505992,
+      "capital": "Madrid",
+      "lat": 40.4,
+      "lon": -3.68,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        "Spanish",
+        "Catalan",
+        "Basque",
+        "Galician",
+        "Aranese"
+      ],
+      "timezones": [
+        "UTC",
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AND",
+        "FRA",
+        "GIB",
+        "PRT",
+        "MAR"
+      ]
+    },
+    {
+      "code": "LKA",
+      "name": "Sri Lanka",
+      "officialName": "Democratic Socialist Republic of Sri Lanka",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/lk.svg",
+      "flagAlt": "The flag of Sri Lanka features two large adjacent but separate rectangular areas, centered on a golden-yellow field. The smaller hoist-side rectangle is divided into two equal vertical bands of teal and orange, and the larger fly-side rectangle is maroon with a centered golden-yellow lion holding a Kastane sword in its right fore-paw and four golden-yellow Bo leaves, one in each corner.",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 21756000,
+      "areaKm2": 65610,
+      "capital": "Sri Jayawardenepura Kotte",
+      "lat": 6.89,
+      "lon": 79.9,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "LKR",
+          "name": "Sri Lankan rupee",
+          "symbol": "Rs"
+        }
+      ],
+      "languages": [
+        "Sinhala",
+        "Tamil"
+      ],
+      "timezones": [
+        "UTC+05:30"
+      ],
+      "borders": []
+    },
+    {
+      "code": "SWE",
+      "name": "Sweden",
+      "officialName": "Kingdom of Sweden",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/se.svg",
+      "flagAlt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 10621103,
+      "areaKm2": 450295,
+      "capital": "Stockholm",
+      "lat": 59.33,
+      "lon": 18.05,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "SEK",
+          "name": "Swedish krona",
+          "symbol": "kr"
+        }
+      ],
+      "languages": [
+        "Swedish"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "FIN",
+        "NOR"
+      ]
+    },
+    {
+      "code": "CHE",
+      "name": "Switzerland",
+      "officialName": "Swiss Confederation",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ch.svg",
+      "flagAlt": "The flag of Switzerland is square shaped. It features a white Swiss cross centered on a red field.",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 9154896,
+      "areaKm2": 41284,
+      "capital": "Bern",
+      "lat": 46.92,
+      "lon": 7.47,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr"
+        }
+      ],
+      "languages": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+      ]
+    },
+    {
+      "code": "TZA",
+      "name": "Tanzania",
+      "officialName": "United Republic of Tanzania",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/tz.svg",
+      "flagAlt": "The flag of Tanzania features a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and light blue triangle respectively.",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 70038850,
+      "areaKm2": 945087,
+      "capital": "Dodoma",
+      "lat": -6.16,
+      "lon": 35.75,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "TZS",
+          "name": "Tanzanian shilling",
+          "symbol": "Sh"
+        }
+      ],
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "borders": [
+        "BDI",
+        "COD",
+        "KEN",
+        "MWI",
+        "MOZ",
+        "RWA",
+        "UGA",
+        "ZMB"
+      ]
+    },
+    {
+      "code": "THA",
+      "name": "Thailand",
+      "officialName": "Kingdom of Thailand",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/th.svg",
+      "flagAlt": "The flag of Thailand is composed of five horizontal bands of red, white, blue, white and red, with the central blue band twice the height of the other four bands.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 70250751,
+      "areaKm2": 513120,
+      "capital": "Bangkok",
+      "lat": 13.75,
+      "lon": 100.52,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "THB",
+          "name": "Thai baht",
+          "symbol": "฿"
+        }
+      ],
+      "languages": [
+        "Thai"
+      ],
+      "timezones": [
+        "UTC+07:00"
+      ],
+      "borders": [
+        "MMR",
+        "KHM",
+        "LAO",
+        "MYS"
+      ]
+    },
+    {
+      "code": "TUR",
+      "name": "Turkey",
+      "officialName": "Republic of Türkiye",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/tr.svg",
+      "flagAlt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center.",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 86092168,
+      "areaKm2": 783562,
+      "capital": "Ankara",
+      "lat": 39.93,
+      "lon": 32.87,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "TRY",
+          "name": "Turkish lira",
+          "symbol": "₺"
+        }
+      ],
+      "languages": [
+        "Turkish"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "borders": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+      ]
+    },
+    {
+      "code": "ARE",
+      "name": "United Arab Emirates",
+      "officialName": "United Arab Emirates",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ae.svg",
+      "flagAlt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band.",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11027129,
+      "areaKm2": 83600,
+      "capital": "Abu Dhabi",
+      "lat": 24.47,
+      "lon": 54.37,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "AED",
+          "name": "United Arab Emirates dirham",
+          "symbol": "د.إ"
+        }
+      ],
+      "languages": [
+        "Arabic"
+      ],
+      "timezones": [
+        "UTC+04:00"
+      ],
+      "borders": [
+        "OMN",
+        "SAU"
+      ]
+    },
+    {
+      "code": "GBR",
+      "name": "United Kingdom",
+      "officialName": "United Kingdom of Great Britain and Northern Ireland",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gb.svg",
+      "flagAlt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew.",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 66912637,
+      "areaKm2": 242900,
+      "capital": "London",
+      "lat": 51.5,
+      "lon": -0.08,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "languages": [
+        "English"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "borders": [
+        "IRL"
+      ]
+    },
+    {
+      "code": "USA",
+      "name": "United States",
+      "officialName": "United States of America",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/us.svg",
+      "flagAlt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton.",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 341784857,
+      "areaKm2": 9372610,
+      "capital": "Washington, D.C.",
+      "lat": 38.89,
+      "lon": -77.05,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        "English"
+      ],
+      "timezones": [
+        "UTC-12:00",
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC+10:00",
+        "UTC+12:00"
+      ],
+      "borders": [
+        "CAN",
+        "MEX"
+      ]
+    },
+    {
+      "code": "VNM",
+      "name": "Vietnam",
+      "officialName": "Socialist Republic of Vietnam",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/vn.svg",
+      "flagAlt": "The flag of Vietnam features a large five-pointed yellow star on a red field.",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 102300000,
+      "areaKm2": 331212,
+      "capital": "Hanoi",
+      "lat": 21.03,
+      "lon": 105.85,
+      "coordsSource": "capital",
+      "currencies": [
+        {
+          "code": "VND",
+          "name": "Vietnamese đồng",
+          "symbol": "₫"
+        }
+      ],
+      "languages": [
+        "Vietnamese"
+      ],
+      "timezones": [
+        "UTC+07:00"
+      ],
+      "borders": [
+        "KHM",
+        "CHN",
+        "LAO"
+      ]
+    }
+  ],
+  "neighbours": [
+    {
+      "code": "AFG",
+      "name": "Afghanistan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/af.svg",
+      "flagAlt": "The flag of Afghanistan is composed of three equal vertical bands of black, red and green, with the national emblem in white centered in the red band."
+    },
+    {
+      "code": "ALB",
+      "name": "Albania",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/al.svg",
+      "flagAlt": "The flag of Albania features a silhouetted double-headed black eagle at the center of a red field."
+    },
+    {
+      "code": "AND",
+      "name": "Andorra",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ad.svg",
+      "flagAlt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
+    },
+    {
+      "code": "ARM",
+      "name": "Armenia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/am.svg",
+      "flagAlt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
+    },
+    {
+      "code": "AZE",
+      "name": "Azerbaijan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/az.svg",
+      "flagAlt": "The flag of Azerbaijan features three equal horizontal bands of blue, red and green, with a white fly-side facing crescent and eight-pointed star centered in the red band."
+    },
+    {
+      "code": "BDI",
+      "name": "Burundi",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bi.svg",
+      "flagAlt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross."
+    },
+    {
+      "code": "BGD",
+      "name": "Bangladesh",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bd.svg",
+      "flagAlt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center."
+    },
+    {
+      "code": "BGR",
+      "name": "Bulgaria",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bg.svg",
+      "flagAlt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ba.svg",
+      "flagAlt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field."
+    },
+    {
+      "code": "BLR",
+      "name": "Belarus",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/by.svg",
+      "flagAlt": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-ninth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band."
+    },
+    {
+      "code": "BLZ",
+      "name": "Belize",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bz.svg",
+      "flagAlt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
+    },
+    {
+      "code": "BOL",
+      "name": "Bolivia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bo.svg",
+      "flagAlt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+    },
+    {
+      "code": "BRN",
+      "name": "Brunei",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bn.svg",
+      "flagAlt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field."
+    },
+    {
+      "code": "BTN",
+      "name": "Bhutan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bt.svg",
+      "flagAlt": "The flag of Bhutan is divided diagonally, from the lower hoist-side corner to the upper fly-side corner, into an upper yellow and a lower orange triangle. A fly-side facing white dragon holding four jewels in its claws is situated along the boundary of the two triangles."
+    },
+    {
+      "code": "BWA",
+      "name": "Botswana",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/bw.svg",
+      "flagAlt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center."
+    },
+    {
+      "code": "COD",
+      "name": "DRC",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/cd.svg",
+      "flagAlt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field."
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/co.svg",
+      "flagAlt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    {
+      "code": "DZA",
+      "name": "Algeria",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/dz.svg",
+      "flagAlt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ec.svg",
+      "flagAlt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+    },
+    {
+      "code": "ESH",
+      "name": "Western Sahara",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/eh.svg",
+      "flagAlt": "The flag of Western Sahara is composed of three equal horizontal bands of black, white and green, with a red equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field. A five-pointed red star within a red crescent is centered in the white band."
+    },
+    {
+      "code": "ETH",
+      "name": "Ethiopia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/et.svg",
+      "flagAlt": "The flag of Ethiopia is composed of three equal horizontal bands of green, yellow and red, with the national emblem superimposed at the center of the field. The national emblem comprises a light blue circle bearing a golden-yellow pentagram with single yellow rays emanating from the angles between the points of the pentagram."
+    },
+    {
+      "code": "FIN",
+      "name": "Finland",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/fi.svg",
+      "flagAlt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    {
+      "code": "GEO",
+      "name": "Georgia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ge.svg",
+      "flagAlt": "The flag of Georgia has a white field with a large centered red cross that extends to the edges and divides the field into four quarters. A small red Bolnur-Katskhuri cross is centered in each quarter."
+    },
+    {
+      "code": "GIB",
+      "name": "Gibraltar",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gi.svg",
+      "flagAlt": "The flag of Gibraltar is composed of two horizontal bands of white and red, with the white band twice the height of the red band. A red three-towered castle, from the gate of which hangs a gold key, is centered on the field."
+    },
+    {
+      "code": "GTM",
+      "name": "Guatemala",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gt.svg",
+      "flagAlt": "The flag of Guatemala is composed of three equal vertical bands of light blue, white and light blue, with the national coat of arms centered in the white band."
+    },
+    {
+      "code": "GUF",
+      "name": "French Guiana",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gf.svg",
+      "flagAlt": "The flag of French Guiana is divided diagonally, from the lower hoist-side corner to the upper fly-side corner, into a lower yellow and an upper green triangle. A five-pointed red star is centered on the field."
+    },
+    {
+      "code": "GUY",
+      "name": "Guyana",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/gy.svg",
+      "flagAlt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field."
+    },
+    {
+      "code": "HKG",
+      "name": "Hong Kong",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/hk.svg",
+      "flagAlt": "The flag of Hong Kong has a red field, at the center of which is a stylized white Bauhinia flower of five petals, each petal bearing a small five-pointed red star."
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ir.svg",
+      "flagAlt": "The flag of Iran is composed of three equal horizontal bands of green, white and red. A red emblem of Iran is centered in the white band and Arabic inscriptions in white span the bottom edge of the green band and the top edge of the red band."
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/iq.svg",
+      "flagAlt": "The flag of Iraq is composed of three equal horizontal bands of red, white and black. In the central white band are Arabic inscriptions in green."
+    },
+    {
+      "code": "ISR",
+      "name": "Israel",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/il.svg",
+      "flagAlt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+    },
+    {
+      "code": "KAZ",
+      "name": "Kazakhstan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/kz.svg",
+      "flagAlt": "The flag of Kazakhstan has a turquoise field, at the center of which is a gold sun with thirty-two rays above a soaring golden steppe eagle. A thin vertical band displays a national ornamental pattern — koshkar-muiz — in gold near the hoist end."
+    },
+    {
+      "code": "KGZ",
+      "name": "Kyrgyzstan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/kg.svg",
+      "flagAlt": "The flag of Kyrgyzstan features a yellow sun with forty rays at the center of a red field. At the center of the sun is a stylized depiction of a tunduk."
+    },
+    {
+      "code": "LAO",
+      "name": "Laos",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/la.svg",
+      "flagAlt": "The flag of Laos is composed of three horizontal bands of red, blue and red. The blue band is twice the height of the red bands and bears a white circle at its center."
+    },
+    {
+      "code": "LBY",
+      "name": "Libya",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ly.svg",
+      "flagAlt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening."
+    },
+    {
+      "code": "LIE",
+      "name": "Liechtenstein",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/li.svg",
+      "flagAlt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band."
+    },
+    {
+      "code": "LSO",
+      "name": "Lesotho",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ls.svg",
+      "flagAlt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band."
+    },
+    {
+      "code": "LTU",
+      "name": "Lithuania",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/lt.svg",
+      "flagAlt": "The flag of Lithuania is composed of three equal horizontal bands of yellow, green and red."
+    },
+    {
+      "code": "LUX",
+      "name": "Luxembourg",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/lu.svg",
+      "flagAlt": "The flag of Luxembourg is composed of three equal horizontal bands of red, white and light blue."
+    },
+    {
+      "code": "MAC",
+      "name": "Macau",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mo.svg",
+      "flagAlt": "The flag of Macau has a green field, at the center of which is a stylized white lotus flower of three petals above a white bridge and stylized water. An arc of five five-pointed yellow stars, one large and four smaller, is situated above the lotus."
+    },
+    {
+      "code": "MCO",
+      "name": "Monaco",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mc.svg",
+      "flagAlt": "The flag of Monaco is composed of two equal horizontal bands of red and white."
+    },
+    {
+      "code": "MKD",
+      "name": "North Macedonia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mk.svg",
+      "flagAlt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field."
+    },
+    {
+      "code": "MMR",
+      "name": "Myanmar",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mm.svg",
+      "flagAlt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field."
+    },
+    {
+      "code": "MNE",
+      "name": "Montenegro",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/me.svg",
+      "flagAlt": "The flag of Montenegro features a large red central rectangular area surrounded by a golden-yellow border. The coat of arms of Montenegro is centered in the red rectangle."
+    },
+    {
+      "code": "MNG",
+      "name": "Mongolia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mn.svg",
+      "flagAlt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band."
+    },
+    {
+      "code": "MOZ",
+      "name": "Mozambique",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mz.svg",
+      "flagAlt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star."
+    },
+    {
+      "code": "MWI",
+      "name": "Malawi",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/mw.svg",
+      "flagAlt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band."
+    },
+    {
+      "code": "NAM",
+      "name": "Namibia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/na.svg",
+      "flagAlt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle."
+    },
+    {
+      "code": "OMN",
+      "name": "Oman",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/om.svg",
+      "flagAlt": "The flag of Oman features a red vertical band on the hoist side that takes up about one-fourth the width of the field, and three equal horizontal bands of white, red and green adjoining the vertical band. At the top of the vertical band is the white emblem of Oman."
+    },
+    {
+      "code": "PNG",
+      "name": "Papua New Guinea",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/pg.svg",
+      "flagAlt": "The flag of Papua New Guinea is divided diagonally, from the upper hoist-side corner to the lower fly-side corner, into a lower black and an upper red triangle. On the hoist side of the lower black triangle is a representation of the Southern Cross constellation made up of one small and four larger five-pointed white stars. A golden Raggiana bird-of-paradise is situated on the fly side of the upper red triangle."
+    },
+    {
+      "code": "PRK",
+      "name": "North Korea",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/kp.svg",
+      "flagAlt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle."
+    },
+    {
+      "code": "PRY",
+      "name": "Paraguay",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/py.svg",
+      "flagAlt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+    },
+    {
+      "code": "PSE",
+      "name": "Palestine",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ps.svg",
+      "flagAlt": "The flag of Palestine is composed of three equal horizontal bands of black, white and green, with a red equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end and spans about one-third the width of the field."
+    },
+    {
+      "code": "ROU",
+      "name": "Romania",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ro.svg",
+      "flagAlt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
+    },
+    {
+      "code": "RUS",
+      "name": "Russia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ru.svg",
+      "flagAlt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red."
+    },
+    {
+      "code": "RWA",
+      "name": "Rwanda",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/rw.svg",
+      "flagAlt": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side."
+    },
+    {
+      "code": "SAU",
+      "name": "Saudi Arabia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sa.svg",
+      "flagAlt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field."
+    },
+    {
+      "code": "SDN",
+      "name": "Sudan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sd.svg",
+      "flagAlt": "The flag of Sudan is composed of three equal horizontal bands of red, white and black, with a green isosceles triangle superimposed on the hoist side. The green triangle spans about two-fifth the width of the field with its base on the hoist end."
+    },
+    {
+      "code": "SMR",
+      "name": "San Marino",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sm.svg",
+      "flagAlt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
+    },
+    {
+      "code": "SOM",
+      "name": "Somalia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/so.svg",
+      "flagAlt": "The flag of Somalia features a large five-pointed white star centered on a light blue field."
+    },
+    {
+      "code": "SRB",
+      "name": "Serbia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/rs.svg",
+      "flagAlt": "The flag of Serbia is composed of three equal horizontal bands of red, blue and white. The coat of arms of Serbia is superimposed at the center of the field slightly towards the hoist side."
+    },
+    {
+      "code": "SSD",
+      "name": "South Sudan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ss.svg",
+      "flagAlt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star."
+    },
+    {
+      "code": "SUR",
+      "name": "Suriname",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sr.svg",
+      "flagAlt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band."
+    },
+    {
+      "code": "SVK",
+      "name": "Slovakia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sk.svg",
+      "flagAlt": "The flag of Slovakia is composed of three equal horizontal bands of white, blue and red. The coat of arms of Slovakia is superimposed at the center of the field slightly towards the hoist side."
+    },
+    {
+      "code": "SVN",
+      "name": "Slovenia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/si.svg",
+      "flagAlt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands."
+    },
+    {
+      "code": "SWZ",
+      "name": "Eswatini",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sz.svg",
+      "flagAlt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
+    },
+    {
+      "code": "SYR",
+      "name": "Syria",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/sy.svg",
+      "flagAlt": "The flag of Syria is composed of three equal horizontal bands of green, white and black. At the center of the white band are three five-pointed red stars arranged in a horizontal line."
+    },
+    {
+      "code": "TJK",
+      "name": "Tajikistan",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/tj.svg",
+      "flagAlt": "The flag of Tajikistan is composed of three horizontal bands of red, white and green in the ratio of 2:3:2. A golden-yellow crown surmounted by an arc of seven five-pointed golden-yellow stars is centered in the white band."
+    },
+    {
+      "code": "TLS",
+      "name": "Timor-Leste",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/tl.svg",
+      "flagAlt": "The flag of Timor-Leste has a red field with two isosceles triangles which share a common base on the hoist end. The smaller black triangle, which bears a five-pointed white star at its center and spans one-third the width of the field, is superimposed on the larger yellow triangle that extends to the center of the field."
+    },
+    {
+      "code": "UGA",
+      "name": "Uganda",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ug.svg",
+      "flagAlt": "The flag of Uganda is composed of six equal horizontal bands of black, yellow, red, black, yellow and red. A white circle bearing a hoist-side facing grey red-crested crane is superimposed in the center of the field."
+    },
+    {
+      "code": "UKR",
+      "name": "Ukraine",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ua.svg",
+      "flagAlt": "The flag of Ukraine is composed of two equal horizontal bands of blue and yellow."
+    },
+    {
+      "code": "URY",
+      "name": "Uruguay",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/uy.svg",
+      "flagAlt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
+    },
+    {
+      "code": "VAT",
+      "name": "Vatican City",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/va.svg",
+      "flagAlt": "The flag of Vatican City is square shaped. It is composed of two equal vertical bands of yellow and white, with national coat of arms centered in the white band. The national coat of arms comprises the Papal Tiara superimposed on two crossed keys."
+    },
+    {
+      "code": "VEN",
+      "name": "Venezuela",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/ve.svg",
+      "flagAlt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+    },
+    {
+      "code": "ZMB",
+      "name": "Zambia",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/zm.svg",
+      "flagAlt": "The flag of Zambia has a green field, on the fly side of which is a soaring orange African fish eagle above a rectangular area divided into three equal vertical bands of red, black and orange."
+    },
+    {
+      "code": "ZWE",
+      "name": "Zimbabwe",
+      "flagUrl": "https://flags.restcountries.com/v5/svg/zw.svg",
+      "flagAlt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe bird superimposed on a five-pointed red star is centered in the triangle."
+    }
+  ]
+}

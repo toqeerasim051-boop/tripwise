@@ -1,0 +1,802 @@
+{
+  "source": "Descriptions: Wikipedia (CC BY-SA 4.0). Photos: Wikimedia Commons, credited per photo.",
+  "hero": {
+    "name": "Moraine Lake",
+    "src": "/images/attractions/hero-moraine-lake.jpg",
+    "credit": {
+      "artist": "Gorgo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"
+    }
+  },
+  "slides": [
+    {
+      "name": "Taj Mahal",
+      "country": "IND",
+      "src": "/images/attractions/hero-taj-mahal.jpg",
+      "credit": {
+        "artist": "Yann; edited by Jim Carter",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+      }
+    },
+    {
+      "name": "Machu Picchu",
+      "country": "PER",
+      "src": "/images/attractions/hero-machu-picchu.jpg",
+      "credit": {
+        "artist": "Draceane",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg"
+      }
+    },
+    {
+      "name": "Giza pyramid complex",
+      "country": "EGY",
+      "src": "/images/attractions/hero-giza-pyramid-complex.jpg",
+      "credit": {
+        "artist": "KennyOMG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg"
+      }
+    },
+    {
+      "name": "Sydney Opera House",
+      "country": "AUS",
+      "src": "/images/attractions/hero-sydney-opera-house.jpg",
+      "credit": {
+        "artist": "BAVhah",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg"
+      }
+    },
+    {
+      "name": "Colosseum",
+      "country": "ITA",
+      "src": "/images/attractions/hero-colosseum.jpg",
+      "credit": {
+        "artist": "FeaturedPics",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+      }
+    }
+  ],
+  "featured": [
+    "JPN",
+    "ITA",
+    "CAN",
+    "FRA",
+    "AUS",
+    "DEU",
+    "USA",
+    "THA",
+    "ESP",
+    "GBR",
+    "PRT",
+    "GRC",
+    "NLD",
+    "CHE",
+    "AUT",
+    "CZE",
+    "HRV",
+    "HUN",
+    "POL",
+    "IRL",
+    "ISL",
+    "NOR",
+    "DNK",
+    "SWE",
+    "BEL",
+    "TUR",
+    "EGY",
+    "MAR",
+    "ZAF",
+    "KEN",
+    "TZA",
+    "MEX",
+    "CUB",
+    "BRA",
+    "ARG",
+    "PER",
+    "CHL",
+    "CHN",
+    "KOR",
+    "IND",
+    "PAK",
+    "NPL",
+    "LKA",
+    "VNM",
+    "KHM",
+    "IDN",
+    "MYS",
+    "SGP",
+    "PHL",
+    "ARE",
+    "JOR",
+    "NZL"
+  ],
+  "covers": {
+    "FRA": {
+      "name": "Eiffel Tower",
+      "src": "/images/attractions/fra/eiffel-tower-500.jpg",
+      "large": "/images/attractions/fra/eiffel-tower-960.jpg",
+      "width": 2900,
+      "height": 4830,
+      "credit": {
+        "artist": "Benh LIEU SONG",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "filePage": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+      }
+    },
+    "ITA": {
+      "name": "Colosseum",
+      "src": "/images/attractions/ita/colosseum-500.jpg",
+      "large": "/images/attractions/ita/colosseum-960.jpg",
+      "width": 12051,
+      "height": 8442,
+      "credit": {
+        "artist": "FeaturedPics",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+      }
+    },
+    "ESP": {
+      "name": "Sagrada Família",
+      "src": "/images/attractions/esp/sagrada-familia-500.jpg",
+      "large": "/images/attractions/esp/sagrada-familia-960.jpg",
+      "width": 1227,
+      "height": 1786,
+      "credit": {
+        "artist": "Canaan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg"
+      }
+    },
+    "GBR": {
+      "name": "Tower Bridge",
+      "src": "/images/attractions/gbr/tower-bridge-500.jpg",
+      "large": "/images/attractions/gbr/tower-bridge-960.jpg",
+      "width": 5554,
+      "height": 3703,
+      "credit": {
+        "artist": "Fuzzypiggy",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_Dawn.jpg"
+      }
+    },
+    "DEU": {
+      "name": "Neuschwanstein Castle",
+      "src": "/images/attractions/deu/neuschwanstein-castle-500.jpg",
+      "large": "/images/attractions/deu/neuschwanstein-castle-960.jpg",
+      "width": 5979,
+      "height": 4468,
+      "credit": {
+        "artist": "Thomas Wolf, www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg"
+      }
+    },
+    "PRT": {
+      "name": "Pena Palace",
+      "src": "/images/attractions/prt/pena-palace-500.jpg",
+      "large": "/images/attractions/prt/pena-palace-960.jpg",
+      "width": 5184,
+      "height": 3456,
+      "credit": {
+        "artist": "Singa Hitam",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sintra_-_Palacio_da_Pena_(20332995770).jpg"
+      }
+    },
+    "GRC": {
+      "name": "Acropolis of Athens",
+      "src": "/images/attractions/grc/acropolis-of-athens-500.jpg",
+      "large": "/images/attractions/grc/acropolis-of-athens-960.jpg",
+      "width": 8640,
+      "height": 5760,
+      "credit": {
+        "artist": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
+      }
+    },
+    "NLD": {
+      "name": "Kinderdijk",
+      "src": "/images/attractions/nld/kinderdijk-500.jpg",
+      "large": "/images/attractions/nld/kinderdijk-960.jpg",
+      "width": 1480,
+      "height": 1108,
+      "credit": {
+        "artist": "Lucas Hirschegger",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "filePage": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg"
+      }
+    },
+    "CHE": {
+      "name": "Matterhorn",
+      "src": "/images/attractions/che/matterhorn-500.jpg",
+      "large": "/images/attractions/che/matterhorn-960.jpg",
+      "width": 1610,
+      "height": 1073,
+      "credit": {
+        "artist": "Photo: chil, on Camptocamp.org Derivative work:Zacharie Grossen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg"
+      }
+    },
+    "AUT": {
+      "name": "Hallstatt",
+      "src": "/images/attractions/aut/hallstatt-500.jpg",
+      "large": "/images/attractions/aut/hallstatt-960.jpg",
+      "width": 3937,
+      "height": 2717,
+      "credit": {
+        "artist": "C.Stadler/Bwag",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG"
+      }
+    },
+    "CZE": {
+      "name": "Charles Bridge",
+      "src": "/images/attractions/cze/charles-bridge-500.jpg",
+      "large": "/images/attractions/cze/charles-bridge-960.jpg",
+      "width": 4555,
+      "height": 3037,
+      "credit": {
+        "artist": "A.Savin",
+        "license": "FAL",
+        "licenseUrl": "http://artlibre.org/licence/lal/en",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg"
+      }
+    },
+    "HRV": {
+      "name": "Plitvice Lakes National Park",
+      "src": "/images/attractions/hrv/plitvice-lakes-national-park-500.jpg",
+      "large": "/images/attractions/hrv/plitvice-lakes-national-park-960.jpg",
+      "width": 2437,
+      "height": 3459,
+      "credit": {
+        "artist": "Zysko serhii",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:View_in_Plitvice_Lakes_National_Park.jpg"
+      }
+    },
+    "HUN": {
+      "name": "Hungarian Parliament Building",
+      "src": "/images/attractions/hun/hungarian-parliament-building-500.jpg",
+      "large": "/images/attractions/hun/hungarian-parliament-building-960.jpg",
+      "width": 4731,
+      "height": 2649,
+      "credit": {
+        "artist": "Kilyann Le Hen",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg"
+      }
+    },
+    "POL": {
+      "name": "Main Square, Kraków",
+      "src": "/images/attractions/pol/main-square-krakow-500.jpg",
+      "large": "/images/attractions/pol/main-square-krakow-960.jpg",
+      "width": 4095,
+      "height": 2790,
+      "credit": {
+        "artist": "Jorge Lascar",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG"
+      }
+    },
+    "IRL": {
+      "name": "Cliffs of Moher",
+      "src": "/images/attractions/irl/cliffs-of-moher-500.jpg",
+      "large": "/images/attractions/irl/cliffs-of-moher-960.jpg",
+      "width": 4608,
+      "height": 3456,
+      "credit": {
+        "artist": "Bjørn Christian Tørrissen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG"
+      }
+    },
+    "ISL": {
+      "name": "Jökulsárlón",
+      "src": "/images/attractions/isl/jokulsarlon-500.jpg",
+      "large": "/images/attractions/isl/jokulsarlon-960.jpg",
+      "width": 2042,
+      "height": 1276,
+      "credit": {
+        "artist": "Molechaser",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:J%C3%B6kuls%C3%A1rl%C3%B3n_lagoon_in_southeastern_Iceland.jpg"
+      }
+    },
+    "NOR": {
+      "name": "Geirangerfjord",
+      "src": "/images/attractions/nor/geirangerfjord-500.jpg",
+      "large": "/images/attractions/nor/geirangerfjord-960.jpg",
+      "width": 7193,
+      "height": 4795,
+      "credit": {
+        "artist": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_.jpg"
+      }
+    },
+    "DNK": {
+      "name": "Nyhavn",
+      "src": "/images/attractions/dnk/nyhavn-500.jpg",
+      "large": "/images/attractions/dnk/nyhavn-960.jpg",
+      "width": 5464,
+      "height": 3640,
+      "credit": {
+        "artist": "European Commission",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:The_Nyhavn_Canal_3.jpg"
+      }
+    },
+    "SWE": {
+      "name": "Gamla Stan",
+      "src": "/images/attractions/swe/gamla-stan-500.jpg",
+      "large": "/images/attractions/swe/gamla-stan-960.jpg",
+      "width": 6016,
+      "height": 4016,
+      "credit": {
+        "artist": "Arild Vågen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Gamla_stan_September_2014_01.jpg"
+      }
+    },
+    "BEL": {
+      "name": "Grand-Place",
+      "src": "/images/attractions/bel/grand-place-500.jpg",
+      "large": "/images/attractions/bel/grand-place-960.jpg",
+      "width": 10946,
+      "height": 6226,
+      "credit": {
+        "artist": "Celuici",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg"
+      }
+    },
+    "TUR": {
+      "name": "Cappadocia",
+      "src": "/images/attractions/tur/cappadocia-500.jpg",
+      "large": "/images/attractions/tur/cappadocia-960.jpg",
+      "width": 5184,
+      "height": 3456,
+      "credit": {
+        "artist": "Arian Zwegers from Brussels, Belgium",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg"
+      }
+    },
+    "EGY": {
+      "name": "Giza pyramid complex",
+      "src": "/images/attractions/egy/giza-pyramid-complex-500.jpg",
+      "large": "/images/attractions/egy/giza-pyramid-complex-960.jpg",
+      "width": 10104,
+      "height": 4210,
+      "credit": {
+        "artist": "KennyOMG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg"
+      }
+    },
+    "MAR": {
+      "name": "Chefchaouen",
+      "src": "/images/attractions/mar/chefchaouen-500.jpg",
+      "large": "/images/attractions/mar/chefchaouen-960.jpg",
+      "width": 6048,
+      "height": 4024,
+      "credit": {
+        "artist": "Badr Rachadi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Chefchaouen-the-blue-city-of-morocco-with-palm-trees-and-the-mountain-view-in-the-backrgound.jpg"
+      }
+    },
+    "ZAF": {
+      "name": "Table Mountain",
+      "src": "/images/attractions/zaf/table-mountain-500.jpg",
+      "large": "/images/attractions/zaf/table-mountain-960.jpg",
+      "width": 2048,
+      "height": 1340,
+      "credit": {
+        "artist": "Danie van der Merwe from Cape Town, South Africa",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg"
+      }
+    },
+    "KEN": {
+      "name": "Maasai Mara",
+      "src": "/images/attractions/ken/maasai-mara-500.jpg",
+      "large": "/images/attractions/ken/maasai-mara-960.jpg",
+      "width": 2400,
+      "height": 1120,
+      "credit": {
+        "artist": "Danijel Mihajlovic",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Masai_Mara_at_Sunset.jpg"
+      }
+    },
+    "TZA": {
+      "name": "Mount Kilimanjaro",
+      "src": "/images/attractions/tza/mount-kilimanjaro-500.jpg",
+      "large": "/images/attractions/tza/mount-kilimanjaro-960.jpg",
+      "width": 3043,
+      "height": 2036,
+      "credit": {
+        "artist": "Sergey Pesterev",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg"
+      }
+    },
+    "USA": {
+      "name": "Grand Canyon",
+      "src": "/images/attractions/usa/grand-canyon-500.jpg",
+      "large": "/images/attractions/usa/grand-canyon-960.jpg",
+      "width": 2048,
+      "height": 1315,
+      "credit": {
+        "artist": "Lennart Sikkema",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg"
+      }
+    },
+    "CAN": {
+      "name": "Moraine Lake",
+      "src": "/images/attractions/can/moraine-lake-500.jpg",
+      "large": "/images/attractions/can/moraine-lake-960.jpg",
+      "width": 2048,
+      "height": 1536,
+      "credit": {
+        "artist": "Gorgo",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "filePage": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"
+      }
+    },
+    "MEX": {
+      "name": "Chichen Itza",
+      "src": "/images/attractions/mex/chichen-itza-500.jpg",
+      "large": "/images/attractions/mex/chichen-itza-960.jpg",
+      "width": 9771,
+      "height": 5197,
+      "credit": {
+        "artist": "Daniel Schwen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+      }
+    },
+    "CUB": {
+      "name": "Viñales Valley",
+      "src": "/images/attractions/cub/vinales-valley-500.jpg",
+      "large": "/images/attractions/cub/vinales-valley-960.jpg",
+      "width": 4288,
+      "height": 2412,
+      "credit": {
+        "artist": "Severin.stalder",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Vi%C3%B1ales_Valley.jpg"
+      }
+    },
+    "BRA": {
+      "name": "Christ the Redeemer",
+      "src": "/images/attractions/bra/christ-the-redeemer-statue-500.jpg",
+      "large": "/images/attractions/bra/christ-the-redeemer-statue-960.jpg",
+      "width": 2497,
+      "height": 3744,
+      "credit": {
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+      }
+    },
+    "ARG": {
+      "name": "Perito Moreno Glacier",
+      "src": "/images/attractions/arg/perito-moreno-glacier-500.jpg",
+      "large": "/images/attractions/arg/perito-moreno-glacier-960.jpg",
+      "width": 13117,
+      "height": 5621,
+      "credit": {
+        "artist": "Fernando",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg"
+      }
+    },
+    "PER": {
+      "name": "Machu Picchu",
+      "src": "/images/attractions/per/machu-picchu-500.jpg",
+      "large": "/images/attractions/per/machu-picchu-960.jpg",
+      "width": 6960,
+      "height": 4640,
+      "credit": {
+        "artist": "Draceane",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg"
+      }
+    },
+    "CHL": {
+      "name": "Torres del Paine National Park",
+      "src": "/images/attractions/chl/torres-del-paine-national-park-500.jpg",
+      "large": "/images/attractions/chl/torres-del-paine-national-park-960.jpg",
+      "width": 1920,
+      "height": 2430,
+      "credit": {
+        "artist": "Karen Chan 16 y Miguel.v ( local | logs | global ) (originales), y Jorge Morales Piderit (montaje).",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine_y_cuernos_del_Paine,_montaje.jpg"
+      }
+    },
+    "JPN": {
+      "name": "Mount Fuji",
+      "src": "/images/attractions/jpn/mount-fuji-500.jpg",
+      "large": "/images/attractions/jpn/mount-fuji-960.jpg",
+      "width": 4231,
+      "height": 2068,
+      "credit": {
+        "artist": "Suicasmo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+      }
+    },
+    "CHN": {
+      "name": "Great Wall of China",
+      "src": "/images/attractions/chn/great-wall-of-china-500.jpg",
+      "large": "/images/attractions/chn/great-wall-of-china-960.jpg",
+      "width": 4288,
+      "height": 2848,
+      "credit": {
+        "artist": "Severin.stalder",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+      }
+    },
+    "KOR": {
+      "name": "Gyeongbokgung",
+      "src": "/images/attractions/kor/gyeongbokgung-500.jpg",
+      "large": "/images/attractions/kor/gyeongbokgung-960.jpg",
+      "width": 6512,
+      "height": 4341,
+      "credit": {
+        "artist": "서울관광 아카이브",
+        "license": "KOGL Type 1",
+        "licenseUrl": "http://www.kogl.or.kr/info/licenseType1.do",
+        "filePage": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg"
+      }
+    },
+    "IND": {
+      "name": "Taj Mahal",
+      "src": "/images/attractions/ind/taj-mahal-500.jpg",
+      "large": "/images/attractions/ind/taj-mahal-960.jpg",
+      "width": 3840,
+      "height": 2525,
+      "credit": {
+        "artist": "Yann; edited by Jim Carter",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+      }
+    },
+    "PAK": {
+      "name": "Badshahi Mosque",
+      "src": "/images/attractions/pak/badshahi-mosque-500.jpg",
+      "large": "/images/attractions/pak/badshahi-mosque-960.jpg",
+      "width": 2592,
+      "height": 1728,
+      "credit": {
+        "artist": "Romero Maia",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Badshahi_Mosque_front_picture.jpg"
+      }
+    },
+    "NPL": {
+      "name": "Mount Everest",
+      "src": "/images/attractions/npl/mount-everest-500.jpg",
+      "large": "/images/attractions/npl/mount-everest-960.jpg",
+      "width": 3157,
+      "height": 2104,
+      "credit": {
+        "artist": "Rdevany",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg"
+      }
+    },
+    "LKA": {
+      "name": "Sigiriya",
+      "src": "/images/attractions/lka/sigiriya-500.jpg",
+      "large": "/images/attractions/lka/sigiriya-960.jpg",
+      "width": 2048,
+      "height": 1365,
+      "credit": {
+        "artist": "Wrobell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg"
+      }
+    },
+    "THA": {
+      "name": "Wat Arun",
+      "src": "/images/attractions/tha/wat-arun-500.jpg",
+      "large": "/images/attractions/tha/wat-arun-960.jpg",
+      "width": 8192,
+      "height": 5464,
+      "credit": {
+        "artist": "Mastertongapollo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg"
+      }
+    },
+    "VNM": {
+      "name": "Hạ Long Bay",
+      "src": "/images/attractions/vnm/ha-long-bay-500.jpg",
+      "large": "/images/attractions/vnm/ha-long-bay-960.jpg",
+      "width": 3251,
+      "height": 2280,
+      "credit": {
+        "artist": "Taewangkorea",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg"
+      }
+    },
+    "KHM": {
+      "name": "Angkor Wat",
+      "src": "/images/attractions/khm/angkor-wat-500.jpg",
+      "large": "/images/attractions/khm/angkor-wat-960.jpg",
+      "width": 2004,
+      "height": 1362,
+      "credit": {
+        "artist": "Bjørn Christian Tørrissen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+      }
+    },
+    "IDN": {
+      "name": "Borobudur",
+      "src": "/images/attractions/idn/borobudur-500.jpg",
+      "large": "/images/attractions/idn/borobudur-960.jpg",
+      "width": 5846,
+      "height": 3897,
+      "credit": {
+        "artist": "Heri nugroho",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg"
+      }
+    },
+    "MYS": {
+      "name": "Batu Caves",
+      "src": "/images/attractions/mys/batu-caves-500.jpg",
+      "large": "/images/attractions/mys/batu-caves-960.jpg",
+      "width": 4032,
+      "height": 3024,
+      "credit": {
+        "artist": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg"
+      }
+    },
+    "SGP": {
+      "name": "Gardens by the Bay",
+      "src": "/images/attractions/sgp/gardens-by-the-bay-500.jpg",
+      "large": "/images/attractions/sgp/gardens-by-the-bay-960.jpg",
+      "width": 5760,
+      "height": 3840,
+      "credit": {
+        "artist": "Shiny Things.",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore_-_20120712-02.jpg"
+      }
+    },
+    "PHL": {
+      "name": "Chocolate Hills",
+      "src": "/images/attractions/phl/chocolate-hills-500.jpg",
+      "large": "/images/attractions/phl/chocolate-hills-960.jpg",
+      "width": 1441,
+      "height": 1095,
+      "credit": {
+        "artist": "P199",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG"
+      }
+    },
+    "ARE": {
+      "name": "Burj Khalifa",
+      "src": "/images/attractions/are/burj-khalifa-500.jpg",
+      "large": "/images/attractions/are/burj-khalifa-960.jpg",
+      "width": 5496,
+      "height": 3670,
+      "credit": {
+        "artist": "imran shahabuddin",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg"
+      }
+    },
+    "JOR": {
+      "name": "Petra",
+      "src": "/images/attractions/jor/petra-500.jpg",
+      "large": "/images/attractions/jor/petra-960.jpg",
+      "width": 6000,
+      "height": 4000,
+      "credit": {
+        "artist": "Azurfrog",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG"
+      }
+    },
+    "AUS": {
+      "name": "Sydney Opera House",
+      "src": "/images/attractions/aus/sydney-opera-house-500.jpg",
+      "large": "/images/attractions/aus/sydney-opera-house-960.jpg",
+      "width": 5184,
+      "height": 3888,
+      "credit": {
+        "artist": "BAVhah",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg"
+      }
+    },
+    "NZL": {
+      "name": "Milford Sound",
+      "src": "/images/attractions/nzl/milford-sound-500.jpg",
+      "large": "/images/attractions/nzl/milford-sound-960.jpg",
+      "width": 4878,
+      "height": 1766,
+      "credit": {
+        "artist": "Maros M r a z (Maros)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "filePage": "https://commons.wikimedia.org/wiki/File:Milford_Sound_(New_Zealand).JPG"
+      }
+    }
+  }
+}
